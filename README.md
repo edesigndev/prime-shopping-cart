@@ -1,8 +1,12 @@
-# Vue 3 + Vite
+# Shopping Cart
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Se realizo un carrito de compras, utilizando VueJS, Pinia, PrimeVue
 
-## Recommended IDE Setup
+## Api
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-# prime-shopping-cart
+[fakestoreapi](https://fakestoreapi.com/)
+
+- Listar Productos
+- Listar Productos por categoria
+- Carrito de compras
+- Filtrado de productos por nombre
